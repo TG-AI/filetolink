@@ -1,4 +1,4 @@
-# Telegram File To Link Generation Bot
+# Telegram File To Link Generation Bot by ai
 A Telegram bot that can stream Telegram files to users over HTTP.
 
 ## Setup
